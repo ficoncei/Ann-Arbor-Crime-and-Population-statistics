@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/Pie.png">
+  <img width="700" height="700" src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/Pie.png">
 </p>
 
 
