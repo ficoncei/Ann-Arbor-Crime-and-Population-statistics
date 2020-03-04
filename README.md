@@ -1,3 +1,3 @@
 # Ann-Arbor-Crime-and-Population-statistics
 
-![test](/images/Pie.png)
+![Pie](https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/Pie.png)
