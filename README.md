@@ -10,28 +10,28 @@ https://data.census.gov/cedsci/table?q=ann%20arbor&g=1600000US2603000&hidePrevie
 
 ## Ann Arbor's Population 2010-2018
 <p align="center">
-  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/EstPopulation.png">
+  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/code/EstPopulation.png">
 </p>
 
 ## Age breakdown of Ann Arbor's Population 2010-2018
 <p align="center">
-  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/AgeDistribution.png">
+  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/code/AgeDistribution.png">
 </p>
 
 ## Ann Arbor's crime per type in the periods 2010-2014 and 2015-2018
 <p align="center">
-  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/Pie.png">
+  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/code/Pie.png">
 </p>
 
 ## Correlation plots between crime type and Ann Arbor's population 
 <p align="center">
-  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/Correlations.png">
+  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/code/Correlations.png">
 </p>
 
 
 ## Temporal evolution of Ann Arbor's by crime type
 <p align="center">
-  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/CrimeTime.png">
+  <img src="https://github.com/ficoncei/Ann-Arbor-Crime-and-Population-statistics/blob/master/code/CrimeTime.png">
 </p>
 
 
